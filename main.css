@@ -1,0 +1,15 @@
+.titulo {
+    display: flex ;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: rgb(8, 8, 95);
+    font-family: sans-serif;
+    margin: 50px;
+    padding-top: 20px 30px;
+    border-radius: 3px;
+}
+.sintese {
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
